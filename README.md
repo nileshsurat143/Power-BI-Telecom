@@ -1,12 +1,6 @@
 # AtliQo Telecom Analysis - PowerBI
 This project is done as part of the November month codebaiscs resume project challenge
 
-Challenge details - [Link](https://codebasics.io/event/codebasics-resume-project-challenge)
-
-Live Dashboard - [Link](https://www.novypro.com/project/atliqo-telecom-analysis-1)
-
-Presentation video - [Link]()
-
 ## Problem statement
 
 AtliQo is one of the leading telecom providers in India and launched it’s 5G plans in May 2022 along with other telecom providers.
